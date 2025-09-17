@@ -1,0 +1,509 @@
+{
+  "site": {
+    "title": "평촌 롯데캐슬 르씨엘",
+    "description": "평촌을 대표할 프리미엄 주거명작",
+    "contact": {
+      "phone": "1833-9123",
+      "hours": "오전 10시 - 오후 6시",
+      "address": "경기도 안양시 동안구 호계동 555-31",
+      "kakao": "https://naver.com/",
+      "kakaoEnabled": false,
+      "visitDateRange": {
+        "startDate": "2025-10-27",
+        "endDate": "2025-12-31"
+      }
+    },
+    "footer": {
+      "manager": "업체명 : 유니컴퍼니 | 사업자등록번호 : 877-15-02004 | 고객센터 : 1833-9123",
+      "description": "평촌을 대표할 프리미엄 주거명작",
+      "developer": "해조건설(주)",
+      "constructor": "롯데건설",
+      "trustee": "코리아신탁",
+      "additionalNote": "※ 홈페이지의 모든 이미지와 내용은 소비자의 이해를 돕기 위한 것으로 실제와 차이가 있을 수 있습니다.",
+      "disclaimers": [
+        "상기 내용은 인·허가 과정이나 실제 시공 시 현장 여건 등에 따라 일부 변경될 수 있으므로 견본주택에 방문하시어 직접 확인하시기 바랍니다.",
+        "사용된 이미지 혹은 CG는 소비자의 이해를 돕기 위한 것으로 실제와 차이가 날 수 있습니다."
+      ]
+    },
+    "domain": "https://lotte-casle.com"
+  },
+  "hero": {
+    "title": "평촌 롯데캐슬 르씨엘",
+    "subtitle": "평촌의 위상을 드높일 압도적인 변화의 시작",
+    "badge": "GRAND OPEN",
+    "slideImages": [
+      "assets/images/hero/1.jpg",
+      "assets/images/hero/2.jpg"
+    ],
+    "backgroundImage": "assets/images/hero/1.jpg"
+  },
+  "overview": {
+    "items": [
+      {
+        "label": "대지위치",
+        "value": "경기도 안양시 평촌동 934번지"
+      },
+      {
+        "label": "대지면적",
+        "value": "16,846.10m²(5,095.90평)"
+      },
+      {
+        "label": "사업규모",
+        "value": "지하 5층~지상 48층 규모, 총 900실"
+      },
+      {
+        "label": "공개용지",
+        "value": "공공기여시설(수영장, 도서관 등 예정)"
+      },
+      {
+        "label": "주차대수",
+        "value": "총 1,310대"
+      }
+    ],
+    "images": [
+      "assets/images/gaeyo/01cont01.jpg",
+      "assets/images/gaeyo/01cont02.jpg"
+    ]
+  },
+  "design": {
+    "title": "브랜드 제일건설",
+    "visible": true,
+    "cards": [
+      {
+        "title": "2024 LACP",
+        "points": [
+          {
+            "label": "스포트라이트 대상 수상",
+            "description": ""
+          }
+        ],
+        "image": "assets/images/sogae/1.jpg",
+        "description": ""
+      },
+      {
+        "title": "2024 굿디자인 어워즈",
+        "points": [
+          {
+            "label": "2관왕 수상",
+            "description": "(조명,난방 등)"
+          }
+        ],
+        "image": "assets/images/sogae/2.jpg"
+      },
+      {
+        "title": "2024 한국서비스대상",
+        "points": [
+          {
+            "label": "종합대상 수상",
+            "description": ""
+          }
+        ],
+        "image": "assets/images/sogae/3.jpg"
+      },
+      {
+        "title": "국토교통부",
+        "points": [
+          {
+            "label": "아파트.업무시설",
+            "description": "환경부 대상 수상"
+          }
+        ],
+        "image": "assets/images/sogae/4.jpg"
+      }
+    ]
+  },
+  "location": {
+    "title": "입지 환경",
+    "description": "완벽한 학군부터 눈부신 비전까지 새로운 평촌을 만나다",
+    "image": "assets/images/ipzi/map.JPG",
+    "highlights": [
+      {
+        "icon": "🏫",
+        "title": "교육",
+        "description": "자녀교육 걱정 없는 우수한 교육환경"
+      },
+      {
+        "icon": "🚇",
+        "title": "교통",
+        "description": "어디든 빨라지는 초역세권 교통특권"
+      },
+      {
+        "icon": "🏪",
+        "title": "생활",
+        "description": "생활편의 남다른 원스톱 생활인프라"
+      },
+      {
+        "icon": "🏙️",
+        "title": "비전",
+        "description": "내일이 더욱 기대되는 평촌 미래가치"
+      }
+    ]
+  },
+  "floorPlans": {
+    "title": "평면도",
+    "description": "비교불가 상품성에 주목하다",
+    "plans": [
+      {
+        "type": "118",
+        "area": "118㎡",
+        "units": "900세대",
+        "description": "4Bay 판상형 구조",
+        "features": [
+          "2025년 10월 OPEN예정"
+        ],
+        "image": "assets/images/pungsu/1.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      }
+    ]
+  },
+  "premium": {
+    "title": "프리미엄",
+    "description": "새로운 평촌을 앞서 누리는 롯데캐슬 르씨엘",
+    "additionalInfo": "",
+    "visible": true,
+    "layoutType": "cards",
+    "features": [
+      {
+        "icon": "🏫",
+        "title": "PREMIUM1",
+        "description": "걸어서 누리는 명문 교육인프라",
+        "details": [
+          "500M 도보권 귀인초,안양남초 등",
+          "1KM 도보권 귀인중, 범계중 등",
+          "경기도 1위 평촌학원가 까지"
+        ]
+      },
+      {
+        "icon": "🚗",
+        "title": "PREMIUM2",
+        "description": "초역세권 동탄인덕원선(29년 예정)",
+        "details": [
+          "수도권제1순환고속도로 4호선(평촌역) 등 ",
+          "시내·외 편리한 교통생활에 비전을 더하다",
+          "월곷-판교선(예정) 인덕원-동탄선(예정) 등"
+        ]
+      },
+      {
+        "icon": "⭐",
+        "title": "PREMIUM3",
+        "description": "10분내로 만나는 중심 생활환경",
+        "details": [
+          "인근 안양 농수산물도매시장 CGV ",
+          "롯데마트 이마트 성심병원 등",
+          "10분내로 누리는 생활인프라"
+        ]
+      },
+      {
+        "icon": "🌳",
+        "title": "PREMIUM4",
+        "description": "도심속 힐링 특권",
+        "details": [
+          "자유공원 산책로 평촌중앙공원 및",
+          "단지 앞 공공기여시설(수영장 도서관 등) ",
+          "비교 불가 힐링라이프"
+        ]
+      },
+      {
+        "icon": "⭐",
+        "title": "PREMIUM5",
+        "description": "평촌의 변화를 앞서 누릴 특급 비전",
+        "details": [
+          "평촌 1기 신도시 선도지구(계획)",
+          "안양 농수산물시장역(예정) 등",
+          "앞으로 더 기대되는 입지"
+        ]
+      },
+      {
+        "icon": "🏆",
+        "title": "PREMIUM6",
+        "description": "롯데캐슬 브랜드 독보적 프리미엄",
+        "details": [
+          "교육특화 커뮤니티",
+          "No1 스카이뷰(최고48F)",
+          "롯데캐슬 주거상품의 가치"
+        ]
+      }
+    ],
+    "images": []
+  },
+  "options": {
+    "title": "기본 제공 품목 안내",
+    "description": "평촌 롯데캐슬 르씨엘 의 프리미엄 기본 제공 품목",
+    "visible": false,
+    "categories": [
+      {
+        "title": "시스템",
+        "items": [
+          {
+            "title": "공동현관",
+            "description": "안면인식 시스템"
+          },
+          {
+            "title": "현관 간접조명",
+            "description": "(84B, 84C, 99B)"
+          },
+          {
+            "title": "거실 및 각 침실",
+            "description": "에어컨 냉매배관"
+          },
+          {
+            "title": "현관/복도/거실/주방",
+            "description": "스크래치리스 도배지"
+          }
+        ]
+      },
+      {
+        "title": "주방/가전",
+        "items": [
+          {
+            "title": "거실 매입등 조도 및",
+            "description": "디밍 조절"
+          },
+          {
+            "title": "엔지니어드스톤",
+            "description": "주방상판"
+          },
+          {
+            "title": "와이드",
+            "description": "사각 싱크볼"
+          },
+          {
+            "title": "전기",
+            "description": "오븐"
+          }
+        ]
+      },
+      {
+        "title": "욕실/발코니",
+        "items": [
+          {
+            "title": "다용도실 및 발코니",
+            "description": "걸레받이 도장"
+          },
+          {
+            "title": "전동 빨래",
+            "description": "건조대"
+          },
+          {
+            "title": "실외기 AL",
+            "description": "자동루버"
+          },
+          {
+            "title": "욕실 샤워",
+            "description": "안전손잡이"
+          }
+        ]
+      },
+      {
+        "title": "시스템/보안",
+        "items": [
+          {
+            "title": "주방 센서형",
+            "description": "절수 수전"
+          },
+          {
+            "title": "고급형",
+            "description": "전열교환기"
+          },
+          {
+            "title": "비데일체형",
+            "description": "욕실"
+          }
+        ]
+      }
+    ]
+  },
+  "convenience": {
+    "title": "주거 프리미엄",
+    "description": "교육 프리미엄",
+    "subtitle": "단지 내 종로엠스쿨 입점",
+    "visible": false,
+    "facilities": [
+      {
+        "category": "가족의 안전을 지켜주는 보안 시스템11",
+        "items": [
+          {
+            "name": "무인경비 시스템",
+            "description": "공용현관과 경비실이 연계되어 외부 침입 등 비상 상황 시 신속 대응 가능"
+          },
+          {
+            "name": "CCTV 설치 (400만 화소)",
+            "description": "단지 내 안전한 생활을 위해 주차장, 놀이터, 엘리베이터 등에 설치"
+          },
+          {
+            "name": "첨단 디지털 도어록",
+            "description": "위급 시 문열림 버튼을 눌러 구조 요청할 수 있는 안전 도어록 설치"
+          },
+          {
+            "name": "홈네트워크 시스템",
+            "description": "가정 내 월패드를 통해 방문자 확인 및 공동현관 자동문 제어 가능"
+          },
+          {
+            "name": "주차관제 시스템",
+            "description": "차량번호 인식 및 무인 자동 출차 시스템으로 입·출차 통제 및 주차 편의 제공"
+          },
+          {
+            "name": "비상콜 시스템",
+            "description": "세대 내 월패드에서 경비실과 바로 통화 가능하여 위급 상황 시 신속한 대응 도움"
+          },
+          {
+            "name": "각 세대 현관 앞 비상경보 시스템",
+            "description": "세대 현관에 설치된 비상벨 누르면 경비실에 경보 발생 및 긴급상황 전달"
+          },
+          {
+            "name": "주차위치 인식 시스템",
+            "description": "지하주차장에 설치된 주차위치 인식 시스템을 통해 내 차량 위치 손쉽게 확인"
+          },
+          {
+            "name": "CCTV 통합관제 시스템",
+            "description": "CCTV 영상을 중앙에서 통합 관리하여 안전성을 강화하고 신속한 상황대처 가능"
+          }
+        ]
+      },
+      {
+        "category": "똑똑하게 에너지를 아껴주는 에너지 절감 시스템",
+        "items": [
+          {
+            "name": "대기전력 차단 스위치",
+            "description": "사용하지 않는 가전제품의 대기전력을 차단하여 전기요금 절감"
+          },
+          {
+            "name": "에너지 사용량 모니터링 시스템",
+            "description": "세대 내에서 전기, 수도, 가스 사용량을 실시간 확인 가능"
+          },
+          {
+            "name": "주차장 LED 조명",
+            "description": "고효율 LED 조명 사용으로 에너지 절약 및 유지비 절감"
+          },
+          {
+            "name": "거실 인디렉트 조명 (간접조명, 색온도)",
+            "description": "세대 내부 거실에 설치된 인디렉트 조명은 색온도 조절 가능"
+          },
+          {
+            "name": "스마트 스위치",
+            "description": "세대 내 조명을 스마트하게 제어하여 에너지 절감 및 생활 편의 제공"
+          },
+          {
+            "name": "복도 LED 조명 센서",
+            "description": "공용 복도에는 움직임 감지 센서를 설치해 효율적인 전력 사용"
+          },
+          {
+            "name": "대기전력 차단 콘센트",
+            "description": "필요 시 자동으로 대기전력을 차단해 공용 전기 절감"
+          }
+        ]
+      }
+    ]
+  },
+  "community": {
+    "title": "커뮤니티 시설",
+    "description": "48층 평촌 랜드마크에서 최상급 생활환경을 누리다",
+    "visible": true,
+    "showOverview": false,
+    "showFloorplan": false,
+    "overviewImage": "assets/images/community/03cont01.jpg",
+    "floorPlanImage": "assets/images/community/03cont02.jpg",
+    "facilities": [
+      {
+        "name": "르씨엘 LIFE1",
+        "description": "수영장, 도서관 등 예정",
+        "mainImage": "assets/images/community/swim.jpg"
+      },
+      {
+        "name": "르씨엘 LIFE2",
+        "description": "스카이라운지, 호텔급 커뮤니티",
+        "mainImage": "assets/images/community/sky.jpg"
+      },
+      {
+        "name": "르씨엘 LIFE3",
+        "description": "지역 최고 48층, 롯데캐슬 신축",
+        "mainImage": "assets/images/community/landmark.jpg"
+      }
+    ]
+  },
+  "qna": {
+    "title": "자주 묻는 질문",
+    "description": "궁금하신 점을 확인해보세요",
+    "visible": true,
+    "items": [
+      {
+        "question": "평촌 롯데캐슬 르씨엘은 위치가 어디죠?",
+        "answer": "경기도 안양시 평촌동 안양농수산물 도매시장 인근에 위치해 있습니다. 도보로 평촌 학원가 이용이 가능하며, 2029년 인동선 농수산물도매시장역(가칭) 초역세권 위치에 있습니다."
+      },
+      {
+        "question": "오픈은 언제하는거죠?",
+        "answer": "현재 모델하우스 오픈준비중 입니다.\n오픈 시기는 2025년 10월~11월 중 예정되어있습니다."
+      },
+      {
+        "question": "평형 구성은 어떻게 되나요?",
+        "answer": "평촌 롯데캐슬 르씨엘은\n전용 47㎡~119㎡ 으로 구성 될 예정이며\n총 900실 공급될 예정입니다"
+      },
+      {
+        "question": "분양가는 얼마죠?",
+        "answer": "2025년 10월 OPEN예정 입니다\n오픈시기에 맞춰 안내가 필요하시면\n대표번호 1833-9123 로 연락주시면 됩니다."
+      },
+      {
+        "question": "모델하우스 운영 시간 및 위치?",
+        "answer": "평촌 롯데캐슬 르씨엘 모델하우스\n\n현재는 모델하우스 미운영중입니다.\n\n위치 : 경기도 안양시 동안구 호계동 555-31\n운영시간 : 오전10시 ~ 오후6시(예정)\n방문예약 : 홈페이지 예약 시스템"
+      }
+    ]
+  },
+  "news": {
+    "title": "언론보도",
+    "description": "평촌 롯데캐슬 르씨엘의 최신 뉴스를 확인하세요",
+    "visible": false,
+    "items": []
+  },
+  "contact": {
+    "title": "상담 문의",
+    "subtitle": "위의 내용 중 궁금한 점이 있으신가요?",
+    "address": "경기도 김포시 장기동 모델하우스",
+    "phone": "1811-0013",
+    "hours": "오전 10시 - 오후 6시",
+    "kakao": ""
+  },
+  "footer": {
+    "projectInfo": {
+      "projectName": "",
+      "manager": "",
+      "description": "",
+      "address": ""
+    },
+    "companies": {
+      "developer": "",
+      "constructor": "",
+      "trustee": ""
+    },
+    "contacts": {
+      "phone": "",
+      "kakao": ""
+    },
+    "additionalNote": "",
+    "disclaimers": []
+  },
+  "seo": {
+    "title": "평촌 롯데캐슬 르씨엘",
+    "description": "평촌 롯데캐슬 르씨엘 홈페이지 | 타입별 평면도 | 분양가 | 모델하우스 방문 | 위치안내 | 평촌 신축아파텔 | 오피스텔 | 예약",
+    "keywords": "평촌 아파트,롯데캐슬 르씨엘,르씨엘 모델하우스,평촌 오피스텔,르씨엘 분양가,평촌 롯데캐슬 분양가,평촌 롯데캐슬 모델하우스 위치,롯데캐슬 르씨엘 위치,",
+    "ogImage": "assets/images/hero/hero.jpg"
+  },
+  "layout": {
+    "title": "단지 배치도",
+    "description": "자연과 함께하는 프리미엄 단지 설계",
+    "features": [
+      {
+        "title": "남동/남서 위주 배치",
+        "description": "전 세대 남동/남서 위주로 채광과 조망이 뛰어난 설계"
+      },
+      {
+        "title": "넓은 동간 거리",
+        "description": "쾌적한 주거환경을 위한 여유로운 동간 거리 확보"
+      }
+    ],
+    "images": [
+      "assets/images/layout/ekswl.jpg"
+    ],
+    "visible": true
+  }
+}

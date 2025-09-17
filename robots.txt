@@ -1,0 +1,13 @@
+# robots.txt for 평촌 롯데캐슬 르씨엘
+# Generated: 2025-09-17
+
+# 모든 검색엔진 봇 허용
+User-agent: *
+Allow: /
+
+# 관리자 페이지 및 데이터 폴더 제외
+Disallow: /admin/
+Disallow: /data/
+
+# 사이트맵 위치
+Sitemap: https://lotte-casle.com/sitemap.xml
