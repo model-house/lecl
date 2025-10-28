@@ -9,7 +9,7 @@
       "kakao": "https://naver.com/",
       "kakaoEnabled": false,
       "visitDateRange": {
-        "startDate": "2025-10-27",
+        "startDate": "2025-10-31",
         "endDate": "2025-12-31"
       }
     },
@@ -30,12 +30,12 @@
   "hero": {
     "title": "평촌 롯데캐슬 르씨엘",
     "subtitle": "평촌의 위상을 드높일 압도적인 변화의 시작",
-    "badge": "GRAND OPEN",
+    "badge": "10월 31일 OPEN",
     "slideImages": [
-      "assets/images/hero/1.jpg",
-      "assets/images/hero/2.jpg"
+      "assets/images/hero/9.JPG",
+      "assets/images/hero/10.jpg"
     ],
-    "backgroundImage": "assets/images/hero/1.jpg"
+    "backgroundImage": "assets/images/hero/9.JPG"
   },
   "overview": {
     "items": [
@@ -61,8 +61,8 @@
       }
     ],
     "images": [
-      "assets/images/gaeyo/01cont01.jpg",
-      "assets/images/gaeyo/01cont02.jpg"
+      "assets/images/gaeyo/1.jpg",
+      "assets/images/gaeyo/2.jpg"
     ]
   },
   "design": {
@@ -120,7 +120,7 @@
       {
         "icon": "🏫",
         "title": "교육",
-        "description": "자녀교육 걱정 없는 우수한 교육환경"
+        "description": "특목고 진학율 경기도 1위 명품학군"
       },
       {
         "icon": "🚇",
@@ -135,23 +135,123 @@
       {
         "icon": "🏙️",
         "title": "비전",
-        "description": "내일이 더욱 기대되는 평촌 미래가치"
+        "description": "1기 신도시 재건축 선도지구 최중심"
       }
     ]
   },
   "floorPlans": {
     "title": "평면도",
-    "description": "비교불가 상품성에 주목하다",
+    "description": "아파트를 대신할 주거 프리미엄 주상복합",
     "plans": [
       {
-        "type": "118",
-        "area": "118㎡",
-        "units": "900세대",
-        "description": "4Bay 판상형 구조",
+        "type": "47A",
+        "area": "47㎡",
+        "units": "80실",
+        "description": "2Bay 분리형 원룸",
         "features": [
-          "2025년 10월 OPEN예정"
+          "임대사업자",
+          "1인가구를 위한 상품"
         ],
-        "image": "assets/images/pungsu/1.jpg",
+        "image": "assets/images/pungsu/47.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "84A",
+        "area": "84㎡",
+        "units": "140실",
+        "description": "3Bay 타워형",
+        "features": [
+          "신혼부부",
+          "有자녀 가정을 위한 가성비상품"
+        ],
+        "image": "assets/images/pungsu/84A.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "84B",
+        "area": "84㎡",
+        "units": "80실",
+        "description": "4Bay 판상형",
+        "features": [
+          "신혼부부",
+          "有자녀 가정을 위한 가성비상품"
+        ],
+        "image": "assets/images/pungsu/84B.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "84C",
+        "area": "84㎡",
+        "units": "80실",
+        "description": "4Bay 판상형",
+        "features": [
+          "신혼부부",
+          "有자녀 가정을 위한 가성비상품"
+        ],
+        "image": "assets/images/pungsu/84C.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "96A",
+        "area": "84㎡",
+        "units": "30실",
+        "description": "4Bay 판상형",
+        "features": [
+          "2자녀 가정을 위한 중소형 상품"
+        ],
+        "image": "assets/images/pungsu/96.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "118A",
+        "area": "118㎡",
+        "units": "210실",
+        "description": "4Bay 판상형",
+        "features": [
+          "다자녀 가정을 위한 중형 상품"
+        ],
+        "image": "assets/images/pungsu/118A.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "118A-1",
+        "area": "118㎡",
+        "units": "22실",
+        "description": "4Bay 판상형",
+        "features": [
+          "다자녀 가정을 위한 중형 상품"
+        ],
+        "image": "assets/images/pungsu/118A-1.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "119A",
+        "area": "119㎡",
+        "units": "172실",
+        "description": "4Bay 판상형",
+        "features": [
+          "다자녀 가정을 위한 중형 상품"
+        ],
+        "image": "assets/images/pungsu/119A.jpg",
+        "areaDetails": [],
+        "additionalImages": []
+      },
+      {
+        "type": "119B",
+        "area": "119㎡",
+        "units": "86실",
+        "description": "4Bay 판상형",
+        "features": [
+          "다자녀 가정을 위한 중형 상품"
+        ],
+        "image": "assets/images/pungsu/119B.jpg",
         "areaDetails": [],
         "additionalImages": []
       }
@@ -169,8 +269,8 @@
         "title": "PREMIUM1",
         "description": "걸어서 누리는 명문 교육인프라",
         "details": [
-          "500M 도보권 귀인초,안양남초 등",
-          "1KM 도보권 귀인중, 범계중 등",
+          "도보권 귀인초,안양남초 등",
+          "도보권 귀인중, 범계중 등",
           "경기도 1위 평촌학원가 까지"
         ]
       },
@@ -433,7 +533,7 @@
       },
       {
         "question": "오픈은 언제하는거죠?",
-        "answer": "현재 모델하우스 오픈준비중 입니다.\n오픈 시기는 2025년 10월~11월 중 예정되어있습니다."
+        "answer": "현재 모델하우스 오픈준비중 입니다.\nGRAND OPEN일은 10월 31일 입니다."
       },
       {
         "question": "평형 구성은 어떻게 되나요?",
@@ -441,19 +541,53 @@
       },
       {
         "question": "분양가는 얼마죠?",
-        "answer": "2025년 10월 OPEN예정 입니다\n오픈시기에 맞춰 안내가 필요하시면\n대표번호 1833-9123 로 연락주시면 됩니다."
+        "answer": "2025년 10월31일 OPEN 입니다\n오픈시기에 맞춰 안내가 필요하시면\n대표번호 1833-9123 로 연락주시면 됩니다."
       },
       {
         "question": "모델하우스 운영 시간 및 위치?",
-        "answer": "평촌 롯데캐슬 르씨엘 모델하우스\n\n현재는 모델하우스 미운영중입니다.\n\n위치 : 경기도 안양시 동안구 호계동 555-31\n운영시간 : 오전10시 ~ 오후6시(예정)\n방문예약 : 홈페이지 예약 시스템"
+        "answer": "평촌 롯데캐슬 르씨엘 모델하우스\n\n현재는 모델하우스 미운영중입니다.\n\n위치 : 예약 시 위치 자동전송\n운영시간 : 오전10시 ~ 오후6시\n방문예약 : 홈페이지 예약 시스템"
       }
     ]
   },
   "news": {
     "title": "언론보도",
     "description": "평촌 롯데캐슬 르씨엘의 최신 뉴스를 확인하세요",
-    "visible": false,
-    "items": []
+    "visible": true,
+    "items": [
+      {
+        "title": "주거형 아파텔 급증…아파트 규제 속 실수요 대안으로 부상",
+        "source": "동아일보",
+        "date": "2025-10-23",
+        "articleTitle": "부동산 대책 최대 수혜지는 ‘주거형 오피스텔’… 두 달 새 거래량 25% 늘어",
+        "link": "https://www.donga.com/news/Economy/article/all/20251023/132619181/1",
+        "image": "",
+        "content": "에 따르면, 정부의 가계부채 관리 강화 정책 이후, 주택시장에서는 주거형 오피스텔이 새로운 대안으로 떠오르고 있다. 동아일보 보도에 따르면, 최근 두 달 동안 주거형 오피스텔의 수도권 거래량이 약 25% 증가했고, 특히 대형 면적형 오피스텔 매매가격지수가 강세를 보였다\n\n주택담보대출 한도가 6억 원으로 제한되고, 대출 실행 후 6개월 내 전입신고 의무화 등 고강도 규제가 시행되면서 아파트·다세대·연립주택 등 전통적 주택상품 진입장벽이 높아졌다. 반면, 오피스텔은 건축법상 ‘준주택’으로 분류돼 일부 규제에서 제외되는 측면이 강점으로 부각됐다\n\n시장 요약\n\n● 수도권 대형 주거형 오피스텔 매매지수가 최근 상승세를 보이며, 9월 기준 서울 대형 오피스텔 지수는 이전 대비 상승했다.\n● 실제로 양천구 목동에서 전용 102.36㎡ 오피스텔이 21억 9000만 원에 거래돼 신고가를 경신하는 등 가격 상승 사례가 나타났다\n\n이 게시물은 동아일보 기사 의 내용을 요약·재구성한 것으로, 전문은 동아일보 원문\n에서 확인할 수 있습니다.",
+        "ctaLink": "",
+        "createdAt": "2025-10-28T12:24:56.539Z"
+      },
+      {
+        "title": "“학원가 프리미엄” 현실화…주변 아파트 평균보다 2억 이상 비싸",
+        "source": "한국경제",
+        "date": "2025-10-13",
+        "articleTitle": "\"학원가 옆이 집값도 높다\"…지역 평균보다 수억 높아",
+        "link": "https://www.hankyung.com/article/202510134446i",
+        "image": "",
+        "content": "에 따르면, 교육열이 부동산 시장에도 직접 반영되고 있다.\n특히 대치동 학원가 주변 아파트 가격은 인근 지역보다 수억 원 높게 형성돼 ‘학군 프리미엄’을 입증하고 있다.\n\n부동산R114 자료에 따르면, 지난달 기준 서울 강남구 대치동 아파트의 3.3㎡당 평균 매매가가 약 9,425만 원으로,\n강남구 전체 평균(8,810만 원)보다 평당 615만 원 높았다.\n이를 전용면적 84㎡로 환산하면 약 2억 원 이상 차이가 나는 셈이다.\n\n전문가들은 이 같은 가격 격차가 단순한 입지 차이보다\n‘학원 접근성·입시 경쟁력·교육환경’이 결합된 결과라고 분석한다.\n특히 대치동은 중·고등학생 대상 대형 입시학원이 밀집해 있고,\n주거 환경과 학군의 브랜드가 동시에 작용하면서 실수요자의 선호가 높다.\n\n시장 해설\n\n● 학군 프리미엄은 여전히 부동산 가치의 핵심 변수 중 하나로 작용\n● 신규 공급이 제한된 지역일수록 가격 차이가 더 벌어지는 경향\n● 입시 경쟁이 지속되는 한, 대치동과 유사한 ‘교육 특화 지역’의 가격 방어력은 당분간 유지될 가능성이 높다\n\n이 게시물은 한국경제 기사 의 핵심 내용을 참고해 요약·재구성한 것입니다, 정확한 내용은 한국경제 홈페이지에서 확인할 수 있습니다.",
+        "ctaLink": "",
+        "createdAt": "2025-10-28T12:24:31.547Z"
+      },
+      {
+        "title": "안양 평촌 지역 '국민평형' 분양가 15억원 돌파 향후 상승 여건은?",
+        "source": "헤럴드경제",
+        "date": "2025-09-29",
+        "articleTitle": "국평 15억 시대의 안양… 추가 상승 전망 속 ‘평촌 롯데캐슬 르씨엘’ 관심도↑",
+        "link": "https://biz.heraldcorp.com/article/10585900?ref=naver",
+        "image": "",
+        "content": "에 따르면,경기 안양시 평촌동 및 인근 지역에서 전용 84㎡급 이른바 ‘국민평형’ 아파트의 분양가가 최근 15억원을 돌파하며 주목받고 있다. 헤럴드경제 보도에 따르면, 해당 지역의 아파트 분양·거래가격이 최근 5년 사이 50 % 이상 상승하는 등 상승세가 가파르다\n\n핵심 흐름 요약\n\n● 지난 5년 사이 안양시 평촌 일대의 아파트 가격 상승률이 약 50 % 이상으로 나타남\n● 전용 84㎡ 급 분양가가 15억원대를 넘어섰고, 이와 함께 향후 추가 상승 여건도 제시되고 있음\n● 공급 여건·입지 강점·교통망 개선 등이 결합하면서 실수요자 및 투자자 시각 모두에서 성장 가능성이 주목됨\n\n해설 및 체크포인트\n\n● 입지 강점: 평촌 신도시 내 중심부 위치, 주변 생활 인프라 밀집 및 교통 접근성 우수\n● 상승 요인: 서울 접근성 개선, 재건축·재개발 기대감, 제한된 공급 물량\n\n이 게시물은 헤럴드경제 기사 의 내용을 요약·재구성한 것이며, 전문은 헤럴드경제 원문\n에서 확인할 수 있습니다.",
+        "ctaLink": "",
+        "createdAt": "2025-10-28T12:12:56.360Z"
+      }
+    ]
   },
   "contact": {
     "title": "상담 문의",
@@ -484,13 +618,13 @@
   },
   "seo": {
     "title": "평촌 롯데캐슬 르씨엘",
-    "description": "평촌 롯데캐슬 르씨엘 홈페이지 | 타입별 평면도 | 분양가 | 모델하우스 방문 | 위치안내 | 평촌 신축아파텔 | 오피스텔 | 예약",
+    "description": "평촌 롯데캐슬 르씨엘 홈페이지 | 타입별 평면도 | 분양가 | 모델하우스 방문 | 위치안내 | 평촌 신축아파텔 | 주상복합 | 예약",
     "keywords": "평촌 아파트,롯데캐슬 르씨엘,르씨엘 모델하우스,평촌 오피스텔,르씨엘 분양가,평촌 롯데캐슬 분양가,평촌 롯데캐슬 모델하우스 위치,롯데캐슬 르씨엘 위치,",
     "ogImage": "assets/images/hero/hero.jpg"
   },
   "layout": {
     "title": "단지 배치도",
-    "description": "자연과 함께하는 프리미엄 단지 설계",
+    "description": "평촌 최초 48층 스카이라운지 주상복합",
     "features": [
       {
         "title": "남동/남서 위주 배치",
@@ -502,7 +636,7 @@
       }
     ],
     "images": [
-      "assets/images/layout/ekswl.jpg"
+      "assets/images/layout/4.jpg"
     ],
     "visible": true
   }
