@@ -149,11 +149,25 @@
         "units": "80실",
         "description": "2Bay 분리형 원룸",
         "features": [
-          "임대사업자",
-          "1인가구를 위한 상품"
+          "시스템에어컨 무상",
+          "빌트인가전 무상",
+          "풀옵션"
         ],
-        "image": "assets/images/pungsu/47.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/47.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "47.0214㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "69.1373㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "100.0287㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -162,11 +176,26 @@
         "units": "140실",
         "description": "3Bay 타워형",
         "features": [
-          "신혼부부",
-          "有자녀 가정을 위한 가성비상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/84A.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/84A.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "84.9526㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "124.9090㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "180.7201㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -175,11 +204,26 @@
         "units": "80실",
         "description": "4Bay 판상형",
         "features": [
-          "신혼부부",
-          "有자녀 가정을 위한 가성비상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/84B.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/84B.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "84.2772㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "123.9159㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "179.2831㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -188,11 +232,26 @@
         "units": "80실",
         "description": "4Bay 판상형",
         "features": [
-          "신혼부부",
-          "有자녀 가정을 위한 가성비상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/84C.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/84C.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "84.8848㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "124.8093㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "180.5757㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -201,10 +260,26 @@
         "units": "30실",
         "description": "4Bay 판상형",
         "features": [
-          "2자녀 가정을 위한 중소형 상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/96.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/96.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "96.8986㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "142.4736㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "206.1329㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -213,10 +288,26 @@
         "units": "210실",
         "description": "4Bay 판상형",
         "features": [
-          "다자녀 가정을 위한 중형 상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/118A.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/118A.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "118.0718㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "173.6053㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "251.1746㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -225,10 +316,26 @@
         "units": "22실",
         "description": "4Bay 판상형",
         "features": [
-          "다자녀 가정을 위한 중형 상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/118A-1.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/118A-1.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "118.0718㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "173.6053㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "251.1746㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -237,10 +344,26 @@
         "units": "172실",
         "description": "4Bay 판상형",
         "features": [
-          "다자녀 가정을 위한 중형 상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/119A.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/119A.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "119.7090㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "176.0126㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "254.6576㎡"
+          }
+        ],
         "additionalImages": []
       },
       {
@@ -249,10 +372,26 @@
         "units": "86실",
         "description": "4Bay 판상형",
         "features": [
-          "다자녀 가정을 위한 중형 상품"
+          "시스템에어컨 무상",
+          "현관중문 무상",
+          "세탁/건조 무상",
+          "빌트인 식기세척기 무상"
         ],
-        "image": "assets/images/pungsu/119B.jpg",
-        "areaDetails": [],
+        "image": "assets/images/pungsu/119B.png",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "119.6637㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "175.9460㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "254.5611㎡"
+          }
+        ],
         "additionalImages": []
       }
     ]
@@ -500,25 +639,40 @@
     "title": "커뮤니티 시설",
     "description": "48층 평촌 랜드마크에서 최상급 생활환경을 누리다",
     "visible": true,
-    "showOverview": false,
-    "showFloorplan": false,
-    "overviewImage": "assets/images/community/03cont01.jpg",
-    "floorPlanImage": "assets/images/community/03cont02.jpg",
+    "showOverview": true,
+    "showFloorplan": true,
+    "overviewImage": "assets/images/community/comunity.png",
+    "floorPlanImage": "assets/images/community/comunity1.png",
     "facilities": [
       {
         "name": "르씨엘 LIFE1",
-        "description": "수영장, 도서관 등 예정",
-        "mainImage": "assets/images/community/swim.jpg"
-      },
-      {
-        "name": "르씨엘 LIFE2",
         "description": "스카이라운지, 호텔급 커뮤니티",
         "mainImage": "assets/images/community/sky.jpg"
       },
       {
+        "name": "르씨엘 LIFE2",
+        "description": "공공기여 시설 수영장",
+        "mainImage": "assets/images/community/swim.jpg"
+      },
+      {
         "name": "르씨엘 LIFE3",
-        "description": "지역 최고 48층, 롯데캐슬 신축",
-        "mainImage": "assets/images/community/landmark.jpg"
+        "description": "입주민을 위한 피트니스 시설",
+        "mainImage": "assets/images/community/fit.JPG"
+      },
+      {
+        "name": "르씨엘 LIFE4",
+        "description": "입주민을 위한 스크린골프 시설",
+        "mainImage": "assets/images/community/golf.JPG"
+      },
+      {
+        "name": "르씨엘 LIFE5",
+        "description": "자녀를 위한 키즈카페 시설",
+        "mainImage": "assets/images/community/kiz.JPG"
+      },
+      {
+        "name": "르씨엘 LIFE6",
+        "description": "자녀를 위한 1인독서실",
+        "mainImage": "assets/images/community/lib.JPG"
       }
     ]
   },
@@ -533,19 +687,19 @@
       },
       {
         "question": "오픈은 언제하는거죠?",
-        "answer": "현재 모델하우스 오픈준비중 입니다.\nGRAND OPEN일은 10월 31일 입니다."
+        "answer": "기다려 주셔서 감사합니다.\nGRAND OPEN일은 10월 31일 입니다."
       },
       {
         "question": "평형 구성은 어떻게 되나요?",
-        "answer": "평촌 롯데캐슬 르씨엘은\n전용 47㎡~119㎡ 으로 구성 될 예정이며\n총 900실 공급될 예정입니다"
+        "answer": "평촌 롯데캐슬 르씨엘은\n전용 47㎡~119㎡ 으로 준비되어 있습니다\n총 900실 공급됩니다"
       },
       {
         "question": "분양가는 얼마죠?",
-        "answer": "2025년 10월31일 OPEN 입니다\n오픈시기에 맞춰 안내가 필요하시면\n대표번호 1833-9123 로 연락주시면 됩니다."
+        "answer": "각 동 마다 그리고 층마다 분양가는 상이합니다.\n상세한 안내와 같이 상담이 필요하시다면\n대표번호 1833-9123 로 연락주시면 됩니다."
       },
       {
         "question": "모델하우스 운영 시간 및 위치?",
-        "answer": "평촌 롯데캐슬 르씨엘 모델하우스\n\n현재는 모델하우스 미운영중입니다.\n\n위치 : 예약 시 위치 자동전송\n운영시간 : 오전10시 ~ 오후6시\n방문예약 : 홈페이지 예약 시스템"
+        "answer": "평촌 롯데캐슬 르씨엘 모델하우스\n\n모델하우스방문시 사전 예약부탁드립니다.\n\n위치 : 예약 시 위치 자동전송\n운영시간 : 오전10시 ~ 오후6시\n방문예약 : 홈페이지 예약 시스템"
       }
     ]
   },

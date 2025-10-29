@@ -1,5 +1,5 @@
 # robots.txt for 평촌 롯데캐슬 르씨엘
-# Generated: 2025-10-28
+# Generated: 2025-10-29
 
 # 모든 검색엔진 봇 허용
 User-agent: *
